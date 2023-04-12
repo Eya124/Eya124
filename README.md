@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Eya TRABELSI
 
-I'm a network and system administrator, currently pursuing a degree in computer engineering. I have a passion for technology and enjoy keeping up with the latest trends and advancements in the field.  In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm always open to collaborating on interesting projects or discussing new ideas, so please feel free to reach out to me. Thank you for visiting my Github profile!
+I'm a network and system administrator. I have a passion for technology and enjoy keeping up with the latest trends and advancements in the field.  In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm always open to collaborating on interesting projects or discussing new ideas, so please feel free to reach out to me. Thank you for visiting my Github profile!
 
 Skills: Python, server management, firewalling, vulnerability handling  Scrum, Java, HTML, CSS, Node.js, Docker, Docker Compose, and Ansible
 
