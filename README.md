@@ -14,10 +14,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eya-trabelsi-0a8556217/](https://www.linkedin.com/in/eya-trabelsi-0a8556217/)
 
-- 🔭 I’m currently working on @citizenfx and @altmp projects.
 - 🌱 I’m currently learning TypeScript, Angular, Dart and more
 - 💬 Ask me about Lua, Java, HTML, CSS, JS, SQL...
-- ⚡ More about me: Like many I love playing video games, I have even led large communities of various games although the highlight in recent years was the creation of content on Twitch, including collaboration on several series of famous content creators. 
+
 ## Used
    <p align="center">
       <img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg" />
