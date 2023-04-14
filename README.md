@@ -1,5 +1,6 @@
 [![MasterHead]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoftflow.ca%2Ffr%2Finfogerance-montreal%2F&psig=AOvVaw3U71TqgfYNZnq2TfV8_4De&ust=1681594606915000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjLx5-qqv4CFQAAAAAdAAAAABAD)
+
+<img align="right" alt="Coding" width="400" src="https://softflow.ca/wp-content/uploads/2022/08/11c347_e374bd0b001344178df52eec5d51fe11_mv2.gif">
 
 <h1 align="center">Hi 👋, I'm Eya TRABELSI</h1>
 <h3 align="center">I'm a network and system administrator. I have a passion for technology and enjoy keeping up with the latest trends and advancements in the field. In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm always open to collaborating on interesting projects or discussing new ideas, so please feel free to reach out to me. Thank you for visiting my Github profile!</h3>
