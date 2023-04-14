@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eya-trabelsi-0a8556217/](https://www.linkedin.com/in/eya-trabelsi-0a8556217/)
-- 🌱 I’m currently learning TypeScript, Angular, Dart and more
+- 🌱 I’m currently learning TypeScript, Angular and more
 - 💬 Ask me about  Java, HTML, CSS, JS, SQL...
 
 <h3 align="left">Connect with me:</h3>
