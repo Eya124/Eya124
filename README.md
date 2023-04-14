@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eya TRABELSI</h1>
 <h3 align="center">I'm a network and system administrator. I have a passion for technology and enjoy keeping up with the latest trends and advancements in the field. In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm always open to collaborating on interesting projects or discussing new ideas, so please feel free to reach out to me. Thank you for visiting my Github profile!</h3>
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/eya-trabelsi-0a8556217/](https://www.linkedin.com/in/eya-trabelsi-0a8556217/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/eya trabelsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya trabelsi" height="30" width="40" /></a>
+<a href="https://fb.com/eya trabelsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eya trabelsi" height="30" width="40" /></a>
+<a href="https://instagram.com/eya trabelsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eya trabelsi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
