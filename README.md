@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eya TRABELSI</h1>
 <h3 align="center">I'm a network and system administrator. I have a passion for technology and enjoy keeping up with the latest trends and advancements in the field. In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm always open to collaborating on interesting projects or discussing new ideas, so please feel free to reach out to me. Thank you for visiting my Github profile!</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eya124&label=Profile%20views&color=0e75b6&style=flat" alt="eya124" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eya124" alt="eya124" /></a> </p>
