@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eya-trabelsi-0a8556217/](https://www.linkedin.com/in/eya-trabelsi-0a8556217/)
 - 🌱 I’m currently learning TypeScript, Angular, Dart and more
-- 💬 Ask me about Lua, Java, HTML, CSS, JS, SQL...
+- 💬 Ask me about  Java, HTML, CSS, JS, SQL...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
