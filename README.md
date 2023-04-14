@@ -3,10 +3,17 @@
 <a href="https://twitter.com/YisusTM_01"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/YisusTM_01"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
 </p>  
-### Hello there! 👋
-Hi! My name is Jesús Téllez 'AKA' Yisus, junior developer and content creator on @Twitch.
-I love learning new things and creating projects that people can enjoy, that's why I started my career creating game servers using my own scripts.
-Also, for years I've been acquiring knowledge together with my community on Twitch.
+<h1 align="center">Hi 👋, I'm Eya TRABELSI</h1>
+<h3 align="center">I'm a network and system administrator. I have a passion for technology and enjoy keeping up with the latest trends and advancements in the field. In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm always open to collaborating on interesting projects or discussing new ideas, so please feel free to reach out to me. Thank you for visiting my Github profile!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eya124&label=Profile%20views&color=0e75b6&style=flat" alt="eya124" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eya124" alt="eya124" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/eya-trabelsi-0a8556217/](https://www.linkedin.com/in/eya-trabelsi-0a8556217/)
+
 - 🔭 I’m currently working on @citizenfx and @altmp projects.
 - 🌱 I’m currently learning TypeScript, Angular, Dart and more
 - 💬 Ask me about Lua, Java, HTML, CSS, JS, SQL...
