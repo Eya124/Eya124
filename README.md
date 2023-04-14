@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eya TRABELSI</h1>
 <h3 align="center">I'm a network and system administrator. I have a passion for technology and enjoy keeping up with the latest trends and advancements in the field. In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm always open to collaborating on interesting projects or discussing new ideas, so please feel free to reach out to me. Thank you for visiting my Github profile!</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw0JpljXeh_nEFbZrvk6eX1B&ust=1681593077572000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjp6sOkqv4CFQAAAAAdAAAAABAD)">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eya124&label=Profile%20views&color=0e75b6&style=flat" alt="eya124" /> </p>
 
